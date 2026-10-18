@@ -1,0 +1,2999 @@
+{
+ "relevado": "2026-10-18",
+ "promos": [
+  {
+   "id": "bbva-gastronomia-20",
+   "entidad": "BBVA",
+   "tiene_usuario": true,
+   "titulo": "20% en gastronomía todos los días",
+   "como_pagar": "Pagá desde la app BBVA escaneando el QR MODO del comercio y elegí tu tarjeta de crédito Visa o Mastercard BBVA",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [],
+   "rubros": [
+    "gastronomia",
+    "cafe"
+   ],
+   "comercios": [],
+   "descuento_pct": 20,
+   "tope_monto": 25000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2027-02-28",
+   "requisitos": "Tarjeta de crédito BBVA en 1 pago; caja de ahorro BBVA vinculada a MODO; tope compartido entre comercios adheridos; reintegro en hasta 60 días",
+   "fuente_url": "https://www.modo.com.ar/promos/20off-bbva-gastronomia-sep26",
+   "confianza": "alta",
+   "requiere": "Crédito BBVA"
+  },
+  {
+   "id": "bbva-gastronomia-jue-vie-20",
+   "entidad": "BBVA",
+   "tiene_usuario": true,
+   "titulo": "20% extra en gastronomía adherida jueves y viernes",
+   "como_pagar": "Pagá desde la app BBVA escaneando el QR MODO del comercio y elegí tu tarjeta de crédito Visa o Mastercard BBVA",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    4,
+    5
+   ],
+   "rubros": [
+    "gastronomia"
+   ],
+   "comercios": [],
+   "descuento_pct": 20,
+   "tope_monto": 20000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-12-31",
+   "requisitos": "Campaña separada (may26) con tope propio de $20.000/mes; verificar comercios adheridos en MODO",
+   "fuente_url": "https://www.modo.com.ar/promos/20off-bbva-gastronomia-may26",
+   "confianza": "media"
+  },
+  {
+   "id": "bbva-tiendas-cercania-15",
+   "entidad": "BBVA",
+   "tiene_usuario": true,
+   "titulo": "15% en tiendas de cercanía (almacenes, dietéticas, etc.)",
+   "como_pagar": "Pagá desde la app BBVA escaneando el QR MODO del comercio y elegí tu tarjeta de crédito Visa o Mastercard BBVA",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [],
+   "rubros": [
+    "comercio_barrio",
+    "almacen",
+    "verduleria",
+    "carniceria"
+   ],
+   "comercios": [],
+   "descuento_pct": 15,
+   "tope_monto": 10000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2027-02-28",
+   "requisitos": "Tarjeta de crédito BBVA en 1 pago; comercios de cercanía adheridos a la campaña; tope compartido",
+   "fuente_url": "https://www.modo.com.ar/promos/15-bbva-tiendas-cercania-sep26",
+   "confianza": "alta",
+   "requiere": "Crédito BBVA"
+  },
+  {
+   "id": "bbva-coto-modo-martes",
+   "entidad": "BBVA",
+   "tiene_usuario": true,
+   "titulo": "25% sin tope en Coto los martes (promo MODO)",
+   "como_pagar": "Pagá escaneando el QR MODO (app MODO o app BBVA/BNA+) con tarjeta de débito o crédito BBVA  — sirve débito o crédito BBVA",
+   "medios": [
+    "qr",
+    "tarjeta_debito",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    2
+   ],
+   "rubros": [
+    "supermercado"
+   ],
+   "comercios": [
+    "Coto"
+   ],
+   "descuento_pct": 25,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Solo locales físicos Coto (no Coto Digital); excluye productos con otras promos, porcinos y embutidos; hasta agotar fondo de la promo",
+   "fuente_url": "https://www.modo.com.ar/promos/coto-oct26",
+   "confianza": "alta"
+  },
+  {
+   "id": "bbva-thefoodmarket-10",
+   "entidad": "BBVA",
+   "tiene_usuario": true,
+   "titulo": "10% en The Food Market todos los días",
+   "como_pagar": "Pagá desde la app BBVA escaneando el QR MODO del comercio y elegí tu tarjeta de crédito Visa o Mastercard BBVA",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial",
+    "online"
+   ],
+   "dias": [],
+   "rubros": [
+    "supermercado"
+   ],
+   "comercios": [
+    "The Food Market"
+   ],
+   "descuento_pct": 10,
+   "tope_monto": 10000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-11-30",
+   "requisitos": "Tarjeta de crédito BBVA vía MODO",
+   "fuente_url": "https://www.modo.com.ar/promos/10-thefoodmarket-bbva-jul26",
+   "confianza": "alta",
+   "requiere": "Crédito BBVA"
+  },
+  {
+   "id": "bbva-martes-moda-20",
+   "entidad": "BBVA",
+   "tiene_usuario": true,
+   "titulo": "Martes de Moda: 20% + 6 cuotas en marcas de indumentaria",
+   "como_pagar": "Pagá desde la app BBVA escaneando el QR MODO del comercio y elegí tu tarjeta de crédito Visa o Mastercard BBVA",
+   "medios": [
+    "qr",
+    "tarjeta_credito",
+    "online"
+   ],
+   "canal": [
+    "presencial",
+    "online"
+   ],
+   "dias": [
+    2
+   ],
+   "rubros": [
+    "indumentaria",
+    "calzado",
+    "perfumeria"
+   ],
+   "comercios": [
+    "Desiderata",
+    "Open Sports",
+    "Trip",
+    "Montagne",
+    "Portsaid",
+    "Rimmel",
+    "Sarkany"
+   ],
+   "descuento_pct": 20,
+   "tope_monto": 50000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": 6,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-27",
+   "requisitos": "Tarjeta de crédito BBVA vía MODO; compras > $250.000 hasta 9 cuotas sin interés",
+   "fuente_url": "https://www.modo.com.ar/promos/20-6csi-montagne-bbva-sep26",
+   "confianza": "alta",
+   "requiere": "Crédito BBVA"
+  },
+  {
+   "id": "bbva-getthelook-martes",
+   "entidad": "BBVA",
+   "tiene_usuario": true,
+   "titulo": "10% + 6 cuotas en Get The Look los martes",
+   "como_pagar": "Pagá desde la app BBVA escaneando el QR MODO del comercio y elegí tu tarjeta de crédito Visa o Mastercard BBVA",
+   "medios": [
+    "qr",
+    "tarjeta_credito",
+    "online"
+   ],
+   "canal": [
+    "presencial",
+    "online"
+   ],
+   "dias": [
+    2
+   ],
+   "rubros": [
+    "perfumeria"
+   ],
+   "comercios": [
+    "Get The Look"
+   ],
+   "descuento_pct": 10,
+   "tope_monto": 20000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": 6,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Tarjeta de crédito BBVA vía MODO; el resto de los días solo 6 cuotas",
+   "fuente_url": "https://www.modo.com.ar/promos/10-6csi-getthelook-bbva-jul26",
+   "confianza": "alta",
+   "requiere": "Crédito BBVA"
+  },
+  {
+   "id": "bbva-parfumerie-martes",
+   "entidad": "BBVA",
+   "tiene_usuario": true,
+   "titulo": "10% + 6 cuotas en Parfumerie los martes",
+   "como_pagar": "Pagá desde la app BBVA escaneando el QR MODO del comercio y elegí tu tarjeta de crédito Visa o Mastercard BBVA",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    2
+   ],
+   "rubros": [
+    "perfumeria"
+   ],
+   "comercios": [
+    "Parfumerie"
+   ],
+   "descuento_pct": 10,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": 6,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Tarjeta de crédito BBVA vía MODO; Juleriaque 6 cuotas todos los días",
+   "fuente_url": "https://www.modo.com.ar/promos/10-6csi-parfumerie-bbva-jun26",
+   "confianza": "media",
+   "requiere": "Crédito BBVA"
+  },
+  {
+   "id": "bbva-jugueterias-jueves",
+   "entidad": "BBVA",
+   "tiene_usuario": true,
+   "titulo": "20% + 3 cuotas en jugueterías los jueves",
+   "como_pagar": "Pagá desde la app BBVA escaneando el QR MODO del comercio y elegí tu tarjeta de crédito Visa o Mastercard BBVA",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial",
+    "online"
+   ],
+   "dias": [
+    4
+   ],
+   "rubros": [
+    "jugueteria"
+   ],
+   "comercios": [
+    "El Mundo del Juguete",
+    "Kinderland",
+    "Cebra",
+    "Osito Azul",
+    "Somos Los Juguetes",
+    "City Kids",
+    "Educando",
+    "MonoCoco",
+    "Carrousel",
+    "Apioverde"
+   ],
+   "descuento_pct": 20,
+   "tope_monto": 20000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": 3,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-12-10",
+   "requisitos": "Tarjeta de crédito BBVA vía MODO",
+   "fuente_url": "https://www.modo.com.ar/promos/20off-3csi-elmundodeljuguete-bbva-agos26",
+   "confianza": "alta",
+   "requiere": "Crédito BBVA"
+  },
+  {
+   "id": "bbva-mascotas-puppis",
+   "entidad": "BBVA",
+   "tiene_usuario": true,
+   "titulo": "20% en Puppis los martes",
+   "como_pagar": "Pagá desde la app BBVA escaneando el QR MODO del comercio y elegí tu tarjeta de crédito Visa o Mastercard BBVA",
+   "medios": [
+    "qr",
+    "tarjeta_credito",
+    "online"
+   ],
+   "canal": [
+    "presencial",
+    "online"
+   ],
+   "dias": [
+    2
+   ],
+   "rubros": [
+    "mascotas"
+   ],
+   "comercios": [
+    "Puppis"
+   ],
+   "descuento_pct": 20,
+   "tope_monto": 8000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": 3,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-29",
+   "requisitos": "Tarjeta de crédito BBVA vía MODO; viernes y sábados 3 cuotas sin interés",
+   "fuente_url": "https://www.modo.com.ar/promos/20-puppis-bbva-sep26",
+   "confianza": "alta",
+   "requiere": "Crédito BBVA"
+  },
+  {
+   "id": "bbva-mascotas-nutrican",
+   "entidad": "BBVA",
+   "tiene_usuario": true,
+   "titulo": "20% en Nutrican los jueves",
+   "como_pagar": "Pagá desde la app BBVA escaneando el QR MODO del comercio y elegí tu tarjeta de crédito Visa o Mastercard BBVA",
+   "medios": [
+    "qr",
+    "tarjeta_credito",
+    "online"
+   ],
+   "canal": [
+    "presencial",
+    "online"
+   ],
+   "dias": [
+    4
+   ],
+   "rubros": [
+    "mascotas"
+   ],
+   "comercios": [
+    "Nutrican"
+   ],
+   "descuento_pct": 20,
+   "tope_monto": 8000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-29",
+   "requisitos": "Tarjeta de crédito BBVA vía MODO",
+   "fuente_url": "https://www.modo.com.ar/promos/20off-nutrican-bbva-jul26",
+   "confianza": "alta",
+   "requiere": "Crédito BBVA"
+  },
+  {
+   "id": "bbva-gimnasios",
+   "entidad": "BBVA",
+   "tiene_usuario": true,
+   "titulo": "15% + 12 cuotas en Megatlón y Fiter",
+   "como_pagar": "Pagá desde la app BBVA escaneando el QR MODO del comercio y elegí tu tarjeta de crédito Visa o Mastercard BBVA",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [],
+   "rubros": [
+    "deporte"
+   ],
+   "comercios": [
+    "Megatlón",
+    "Fiter"
+   ],
+   "descuento_pct": 15,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": 12,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-12-31",
+   "requisitos": "Tarjeta de crédito BBVA vía MODO",
+   "fuente_url": "https://www.modo.com.ar/promos/15off-12csi-megatlon-bbva-jul26",
+   "confianza": "alta",
+   "requiere": "Crédito BBVA"
+  },
+  {
+   "id": "bbva-turismo-expreso-polar",
+   "entidad": "BBVA",
+   "tiene_usuario": true,
+   "titulo": "30% + 6 cuotas en turismo (Expreso Polar / Leiva) los jueves",
+   "como_pagar": "Pagá desde la app BBVA escaneando el QR MODO del comercio y elegí tu tarjeta de crédito Visa o Mastercard BBVA",
+   "medios": [
+    "qr",
+    "tarjeta_credito",
+    "online"
+   ],
+   "canal": [
+    "presencial",
+    "online"
+   ],
+   "dias": [
+    4
+   ],
+   "rubros": [
+    "turismo",
+    "viajes"
+   ],
+   "comercios": [
+    "Expreso Polar",
+    "Leiva",
+    "Alabama"
+   ],
+   "descuento_pct": 30,
+   "tope_monto": 18000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": 6,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-12-31",
+   "requisitos": "Tarjeta de crédito BBVA vía MODO",
+   "fuente_url": "https://www.modo.com.ar/promos/30off-6csi-expresopolar-bbva-jul26",
+   "confianza": "alta",
+   "requiere": "Crédito BBVA"
+  },
+  {
+   "id": "bbva-cuotas-deporte-online",
+   "entidad": "BBVA",
+   "tiene_usuario": true,
+   "titulo": "6-12 cuotas en marcas deportivas online (Mizuno, Under Armour, Champion)",
+   "como_pagar": "Comprá en la tienda online y pagá con MODO eligiendo tu tarjeta de crédito BBVA",
+   "medios": [
+    "online",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "online"
+   ],
+   "dias": [],
+   "rubros": [
+    "indumentaria",
+    "calzado",
+    "deporte",
+    "ecommerce"
+   ],
+   "comercios": [
+    "Mizuno",
+    "Under Armour",
+    "Champion"
+   ],
+   "descuento_pct": null,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": 12,
+   "minimo_compra": null,
+   "tipo": "cuotas",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Mizuno 12 cuotas; Under Armour y Champion 6 cuotas",
+   "fuente_url": "https://www.modo.com.ar/promos/12csi-mizuno-bbva-sep26",
+   "confianza": "alta"
+  },
+  {
+   "id": "bbva-essen-12",
+   "entidad": "BBVA",
+   "tiene_usuario": true,
+   "titulo": "12 cuotas sin interés en Essen online",
+   "como_pagar": "Comprá en essen.com.ar y pagá con MODO con tu tarjeta de crédito BBVA",
+   "medios": [
+    "online",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "online"
+   ],
+   "dias": [],
+   "rubros": [
+    "hogar",
+    "ecommerce"
+   ],
+   "comercios": [
+    "Essen"
+   ],
+   "descuento_pct": null,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": 12,
+   "minimo_compra": null,
+   "tipo": "cuotas",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Tarjeta de crédito BBVA",
+   "fuente_url": "https://www.modo.com.ar/promos/12csi-essen-bbva-ago26",
+   "confianza": "alta",
+   "requiere": "Crédito BBVA"
+  },
+  {
+   "id": "bbva-espectaculos-cuotas",
+   "entidad": "BBVA",
+   "tiene_usuario": true,
+   "titulo": "3-12 cuotas en shows (Primavera Sound, Cosquín Rock, Movistar Arena)",
+   "como_pagar": "Comprá la entrada pagando con tu tarjeta de crédito BBVA vía MODO",
+   "medios": [
+    "online",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "online"
+   ],
+   "dias": [],
+   "rubros": [
+    "entretenimiento"
+   ],
+   "comercios": [
+    "Primavera Sound",
+    "Cosquín Rock",
+    "Movistar Arena"
+   ],
+   "descuento_pct": null,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": 12,
+   "minimo_compra": null,
+   "tipo": "cuotas",
+   "vigencia_hasta": "2027-02-07",
+   "requisitos": "Tarjeta de crédito BBVA",
+   "fuente_url": "https://www.modo.com.ar/promos/12csi-cosquinrock-bbva-jul26",
+   "confianza": "alta",
+   "requiere": "Crédito BBVA"
+  },
+  {
+   "id": "bbva-black-super-combustible",
+   "entidad": "BBVA",
+   "tiene_usuario": true,
+   "titulo": "Black+ Save/All: 20% en cualquier supermercado y estación de servicio",
+   "como_pagar": "Pagá con el celular por NFC (Apple Pay / Google Pay / MODO NFC) con la Visa Signature BBVA del paquete Black+",
+   "medios": [
+    "nfc",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [],
+   "rubros": [
+    "supermercado",
+    "combustible"
+   ],
+   "comercios": [],
+   "descuento_pct": 20,
+   "tope_monto": 100000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-12-31",
+   "requisitos": "Solo paquetes Black+ Save o All (no plástico físico); tope compartido entre rubros; el paquete cuesta ~$98.000 (Save) / $188.000 (All) por mes salvo bonificación por consumos o sueldo",
+   "fuente_url": "https://www.iprofesional.com/finanzas/460527-arranco-el-nuevo-programa-del-banco-que-da-200000-de-descuento-en-nafta-y-supermercado",
+   "confianza": "media",
+   "requiere": "BBVA Black+"
+  },
+  {
+   "id": "bbva-black-gastronomia",
+   "entidad": "BBVA",
+   "tiene_usuario": true,
+   "titulo": "Black+ Travel/All: 20% en gastronomía",
+   "como_pagar": "Pagá por NFC con la Visa Signature BBVA del paquete Black+",
+   "medios": [
+    "nfc",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [],
+   "rubros": [
+    "gastronomia"
+   ],
+   "comercios": [],
+   "descuento_pct": 20,
+   "tope_monto": 100000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": null,
+   "requisitos": "Solo paquetes Black+ Travel o All",
+   "fuente_url": "https://www.iprofesional.com/finanzas/460527-arranco-el-nuevo-programa-del-banco-que-da-200000-de-descuento-en-nafta-y-supermercado",
+   "confianza": "media",
+   "requiere": "BBVA Black+"
+  },
+  {
+   "id": "bbva-black-mercadolibre",
+   "entidad": "BBVA",
+   "tiene_usuario": true,
+   "titulo": "Black+: 3 a 6 cuotas sin interés en Mercado Libre",
+   "como_pagar": "Pagá en Mercado Libre con la Visa Signature BBVA del paquete Black+",
+   "medios": [
+    "online",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "online"
+   ],
+   "dias": [],
+   "rubros": [
+    "ecommerce",
+    "marketplace"
+   ],
+   "comercios": [
+    "Mercado Libre"
+   ],
+   "descuento_pct": null,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": 6,
+   "minimo_compra": null,
+   "tipo": "cuotas",
+   "vigencia_hasta": null,
+   "requisitos": "Black+ Save: 3 cuotas; Black+ All: 6 cuotas",
+   "fuente_url": "https://www.cronista.com/finanzas-mercados/descuentos-en-supermercados-gastronomia-y-cuotas-sin-interes-asi-son-las-nuevas-tarjetas-de-credito-de-bbva/",
+   "confianza": "baja",
+   "requiere": "BBVA Black+"
+  },
+  {
+   "id": "bbva-carrefour-modo-miercoles",
+   "entidad": "BBVA",
+   "tiene_usuario": true,
+   "titulo": "10% en Carrefour los miércoles (promo MODO)",
+   "como_pagar": "Pagá con QR MODO desde la app BBVA con cualquier tarjeta BBVA",
+   "medios": [
+    "qr",
+    "tarjeta_debito",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    3
+   ],
+   "rubros": [
+    "supermercado"
+   ],
+   "comercios": [
+    "Carrefour Hiper",
+    "Carrefour Market",
+    "Carrefour Express"
+   ],
+   "descuento_pct": 10,
+   "tope_monto": 10000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": 15000,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-28",
+   "requisitos": "Compra mínima $15.000",
+   "fuente_url": "https://www.modo.com.ar/promos/carrefour-hiper-market-express-oct26",
+   "confianza": "alta"
+  },
+  {
+   "id": "modo-combustible-finde",
+   "entidad": "MODO",
+   "tiene_usuario": true,
+   "titulo": "10% en combustible sábados y domingos",
+   "como_pagar": "Pagá con QR MODO en estaciones adheridas con tarjeta BBVA o Nación (débito o crédito)",
+   "medios": [
+    "qr",
+    "tarjeta_debito",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    0,
+    6
+   ],
+   "rubros": [
+    "combustible"
+   ],
+   "comercios": [],
+   "descuento_pct": 10,
+   "tope_monto": 5000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Tope $5.000 por banco por promoción; estaciones adheridas (ver modo.com.ar/promos)",
+   "fuente_url": "https://www.modo.com.ar/promos/combustible-oct26",
+   "confianza": "alta"
+  },
+  {
+   "id": "modo-mayorista-nini",
+   "entidad": "MODO",
+   "tiene_usuario": true,
+   "titulo": "20% en Mayorista Nini los jueves",
+   "como_pagar": "Pagá escaneando el QR MODO (app MODO o app BBVA/BNA+) con tarjeta de débito o crédito BBVA o Nación",
+   "medios": [
+    "qr",
+    "nfc",
+    "tarjeta_debito",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    4
+   ],
+   "rubros": [
+    "supermercado"
+   ],
+   "comercios": [
+    "Mayorista Nini"
+   ],
+   "descuento_pct": 20,
+   "tope_monto": 20000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-29",
+   "requisitos": "Hasta agotar fondo",
+   "fuente_url": "https://www.modo.com.ar/promos/mayoristanini-oct26",
+   "confianza": "alta"
+  },
+  {
+   "id": "modo-farmacity-online",
+   "entidad": "MODO",
+   "tiene_usuario": true,
+   "titulo": "20% en Farmacity online los martes",
+   "como_pagar": "Comprá en farmacity.com y pagá con MODO con tarjeta BBVA o Nación",
+   "medios": [
+    "online",
+    "tarjeta_debito",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "online"
+   ],
+   "dias": [
+    2
+   ],
+   "rubros": [
+    "farmacia",
+    "perfumeria",
+    "ecommerce"
+   ],
+   "comercios": [
+    "Farmacity",
+    "Simplicity"
+   ],
+   "descuento_pct": 20,
+   "tope_monto": 16000,
+   "tope_periodo": "semana",
+   "cuotas_sin_interes": null,
+   "minimo_compra": 70000,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-27",
+   "requisitos": "Compra mínima $70.000",
+   "fuente_url": "https://www.modo.com.ar/promos/farmacity-online-oct26",
+   "confianza": "alta"
+  },
+  {
+   "id": "modo-farmacias-delpuente",
+   "entidad": "MODO",
+   "tiene_usuario": true,
+   "titulo": "15% en Farmacias Del Puente los viernes",
+   "como_pagar": "Pagá escaneando el QR MODO (app MODO o app BBVA/BNA+) con tarjeta de débito o crédito BBVA o Nación",
+   "medios": [
+    "qr",
+    "online",
+    "tarjeta_debito",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial",
+    "online"
+   ],
+   "dias": [
+    5
+   ],
+   "rubros": [
+    "farmacia",
+    "perfumeria"
+   ],
+   "comercios": [
+    "Del Puente"
+   ],
+   "descuento_pct": 15,
+   "tope_monto": 6000,
+   "tope_periodo": "semana",
+   "cuotas_sin_interes": null,
+   "minimo_compra": 40000,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Compra mínima $40.000",
+   "fuente_url": "https://www.modo.com.ar/promos/farmacias-delpuente-oct26",
+   "confianza": "alta"
+  },
+  {
+   "id": "modo-farmaplus-openfarma",
+   "entidad": "MODO",
+   "tiene_usuario": true,
+   "titulo": "15% en FarmaPlus / Openfarma online los lunes",
+   "como_pagar": "Comprá online y pagá con MODO con tarjeta BBVA o Nación",
+   "medios": [
+    "online",
+    "tarjeta_debito",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "online"
+   ],
+   "dias": [
+    1
+   ],
+   "rubros": [
+    "farmacia",
+    "ecommerce"
+   ],
+   "comercios": [
+    "FarmaPlus",
+    "Openfarma"
+   ],
+   "descuento_pct": 15,
+   "tope_monto": 9000,
+   "tope_periodo": "semana",
+   "cuotas_sin_interes": null,
+   "minimo_compra": 60000,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-26",
+   "requisitos": "FarmaPlus: tope $9.000/semana, mín $60.000. Openfarma: tope $11.000/mes, mín $70.000",
+   "fuente_url": "https://www.modo.com.ar/promos/farmaplus-oct26",
+   "confianza": "alta"
+  },
+  {
+   "id": "modo-soy-shopping",
+   "entidad": "MODO",
+   "tiene_usuario": true,
+   "titulo": "40% en Soy Shopping",
+   "como_pagar": "Pagá escaneando el QR MODO (app MODO o app BBVA/BNA+) con tarjeta de débito o crédito BBVA o Nación",
+   "medios": [
+    "qr",
+    "nfc",
+    "tarjeta_debito",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [],
+   "rubros": [
+    "indumentaria",
+    "otros"
+   ],
+   "comercios": [
+    "Soy Shopping"
+   ],
+   "descuento_pct": 40,
+   "tope_monto": 30000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-11-30",
+   "requisitos": "Locales adheridos; fondo total limitado",
+   "fuente_url": "https://www.modo.com.ar/promos/soy-shopping-oct26",
+   "confianza": "media"
+  },
+  {
+   "id": "modo-nike-online",
+   "entidad": "MODO",
+   "tiene_usuario": true,
+   "titulo": "20% en Nike online los martes",
+   "como_pagar": "Comprá en nike.com.ar y pagá con MODO con tarjeta BBVA o Nación",
+   "medios": [
+    "online",
+    "tarjeta_credito",
+    "tarjeta_debito"
+   ],
+   "canal": [
+    "online"
+   ],
+   "dias": [
+    2
+   ],
+   "rubros": [
+    "indumentaria",
+    "calzado",
+    "deporte",
+    "ecommerce"
+   ],
+   "comercios": [
+    "Nike"
+   ],
+   "descuento_pct": 20,
+   "tope_monto": 20000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-20",
+   "requisitos": "",
+   "fuente_url": "https://www.modo.com.ar/promos/nike-oct26",
+   "confianza": "alta"
+  },
+  {
+   "id": "modo-topper-online",
+   "entidad": "MODO",
+   "tiene_usuario": true,
+   "titulo": "20% en Topper online los jueves",
+   "como_pagar": "Comprá online en Topper y pagá con MODO",
+   "medios": [
+    "online",
+    "tarjeta_credito",
+    "tarjeta_debito"
+   ],
+   "canal": [
+    "online"
+   ],
+   "dias": [
+    4
+   ],
+   "rubros": [
+    "indumentaria",
+    "calzado",
+    "ecommerce"
+   ],
+   "comercios": [
+    "Topper"
+   ],
+   "descuento_pct": 20,
+   "tope_monto": 14000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": 70000,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-29",
+   "requisitos": "Compra mínima $70.000",
+   "fuente_url": "https://www.modo.com.ar/promos/topper-oct26",
+   "confianza": "alta"
+  },
+  {
+   "id": "modo-sportotal-freekick",
+   "entidad": "MODO",
+   "tiene_usuario": true,
+   "titulo": "20% en Sportotal y Freekick online domingo y lunes",
+   "como_pagar": "Comprá online y pagá con MODO",
+   "medios": [
+    "online",
+    "tarjeta_credito",
+    "tarjeta_debito"
+   ],
+   "canal": [
+    "online"
+   ],
+   "dias": [
+    0,
+    1
+   ],
+   "rubros": [
+    "indumentaria",
+    "calzado",
+    "deporte",
+    "ecommerce"
+   ],
+   "comercios": [
+    "Sportotal",
+    "Freekick"
+   ],
+   "descuento_pct": 20,
+   "tope_monto": 10000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-26",
+   "requisitos": "",
+   "fuente_url": "https://www.modo.com.ar/promos/sportotal-freekick-oct26",
+   "confianza": "alta"
+  },
+  {
+   "id": "modo-showsport-online",
+   "entidad": "MODO",
+   "tiene_usuario": true,
+   "titulo": "20% en Showsport online los domingos",
+   "como_pagar": "Comprá online y pagá con MODO",
+   "medios": [
+    "online",
+    "tarjeta_credito",
+    "tarjeta_debito"
+   ],
+   "canal": [
+    "online"
+   ],
+   "dias": [
+    0
+   ],
+   "rubros": [
+    "indumentaria",
+    "calzado",
+    "ecommerce"
+   ],
+   "comercios": [
+    "Showsport"
+   ],
+   "descuento_pct": 20,
+   "tope_monto": 20000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": 80000,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-25",
+   "requisitos": "Compra mínima $80.000",
+   "fuente_url": "https://www.modo.com.ar/promos/showsportonline-oct26",
+   "confianza": "alta"
+  },
+  {
+   "id": "bna-combustible-viernes",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "20% en combustible los viernes",
+   "como_pagar": "Pagá desde la app BNA+ (MODO BNA+) escaneando el QR MODO y elegí tu tarjeta de crédito Visa o Mastercard Nación",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    5
+   ],
+   "rubros": [
+    "combustible"
+   ],
+   "comercios": [
+    "YPF",
+    "Shell",
+    "Axion",
+    "Puma",
+    "Gulf",
+    "Dapsa"
+   ],
+   "descuento_pct": 20,
+   "tope_monto": 10000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2027-01-31",
+   "requisitos": "Tarjeta de crédito Nación; cuenta monetaria en BNA asociada a BNA+",
+   "fuente_url": "https://www.modo.com.ar/promos/20off-combustible-bna-mar26",
+   "confianza": "alta",
+   "requiere": "Crédito Nación"
+  },
+  {
+   "id": "bna-shell-adicional",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "5% adicional en Shell los viernes",
+   "como_pagar": "Pagá desde la app BNA+ (MODO BNA+) escaneando el QR MODO y elegí tu tarjeta de crédito Visa o Mastercard Nación",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    5
+   ],
+   "rubros": [
+    "combustible"
+   ],
+   "comercios": [
+    "Shell"
+   ],
+   "descuento_pct": 5,
+   "tope_monto": 3000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2027-01-31",
+   "requisitos": "Se suma al 20% de combustible (total 25%, hasta $13.000/mes)",
+   "fuente_url": "https://www.modo.com.ar/promos/5off-adicionalshell-bna-mar26",
+   "confianza": "alta"
+  },
+  {
+   "id": "bna-minimercados-miercoles",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "30% en minimercados y almacenes adheridos los miércoles (Semana Nación)",
+   "como_pagar": "Pagá desde la app BNA+ (MODO BNA+) escaneando el QR MODO y elegí tu tarjeta de crédito Visa o Mastercard Nación",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial",
+    "online"
+   ],
+   "dias": [
+    3
+   ],
+   "rubros": [
+    "comercio_barrio",
+    "almacen",
+    "supermercado"
+   ],
+   "comercios": [],
+   "descuento_pct": 30,
+   "tope_monto": 12000,
+   "tope_periodo": "semana",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2027-01-31",
+   "requisitos": "Tarjeta de crédito Nación; no válido con saldo en cuenta",
+   "fuente_url": "https://www.modo.com.ar/promos/30-semananacion-minimercados-bna-sep26",
+   "confianza": "alta",
+   "requiere": "Crédito Nación"
+  },
+  {
+   "id": "bna-coto-martes-adicional",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "10% adicional en Coto los martes con Mastercard Nación (suma al 25% MODO)",
+   "como_pagar": "Pagá con QR MODO desde BNA+ con tu Mastercard Nación (débito o crédito)",
+   "medios": [
+    "qr",
+    "tarjeta_debito",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    2
+   ],
+   "rubros": [
+    "supermercado"
+   ],
+   "comercios": [
+    "Coto"
+   ],
+   "descuento_pct": 10,
+   "tope_monto": 7500,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Solo Mastercard Nación; acumula con el 25% sin tope de MODO en Coto los martes (35% total)",
+   "fuente_url": "https://www.modo.com.ar/promos/10-coto-bna-oct26",
+   "confianza": "alta",
+   "requiere": "Mastercard Nación"
+  },
+  {
+   "id": "bna-coto-modo-martes",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "25% sin tope en Coto los martes (promo MODO)",
+   "como_pagar": "Pagá con QR MODO desde BNA+ con cualquier tarjeta Nación (débito o crédito)",
+   "medios": [
+    "qr",
+    "tarjeta_debito",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    2
+   ],
+   "rubros": [
+    "supermercado"
+   ],
+   "comercios": [
+    "Coto"
+   ],
+   "descuento_pct": 25,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Solo locales físicos; excluye productos con otras promos",
+   "fuente_url": "https://www.modo.com.ar/promos/coto-oct26",
+   "confianza": "alta"
+  },
+  {
+   "id": "bna-changomas-lunes",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "10% adicional en ChangoMás los lunes con Mastercard Nación",
+   "como_pagar": "Pagá con QR MODO desde BNA+ con tu Mastercard Nación",
+   "medios": [
+    "qr",
+    "tarjeta_debito",
+    "tarjeta_credito",
+    "online"
+   ],
+   "canal": [
+    "presencial",
+    "online"
+   ],
+   "dias": [
+    1
+   ],
+   "rubros": [
+    "supermercado"
+   ],
+   "comercios": [
+    "ChangoMás"
+   ],
+   "descuento_pct": 10,
+   "tope_monto": 7500,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": 75000,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Compra mínima $75.000; según prensa se suma a un 20% MODO (tope $25.000/mes) los lunes",
+   "fuente_url": "https://www.modo.com.ar/promos/10-changomas-bna-oct26",
+   "confianza": "alta"
+  },
+  {
+   "id": "bna-dia-viernes-sabado",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "20% en Supermercados Día viernes y sábado (+10% extra con Mastercard)",
+   "como_pagar": "Pagá desde la app BNA+ (MODO BNA+) escaneando el QR MODO y elegí tu tarjeta de crédito tarjeta Nación",
+   "medios": [
+    "qr",
+    "tarjeta_debito",
+    "tarjeta_credito",
+    "online"
+   ],
+   "canal": [
+    "presencial",
+    "online"
+   ],
+   "dias": [
+    5,
+    6
+   ],
+   "rubros": [
+    "supermercado"
+   ],
+   "comercios": [
+    "Día"
+   ],
+   "descuento_pct": 20,
+   "tope_monto": 20000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": 35000,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Compra mínima $35.000; 10% adicional con Mastercard Nación tope $7.500/mes",
+   "fuente_url": "https://www.modo.com.ar/promos/10-supermercados-dia-bna-oct26",
+   "confianza": "media"
+  },
+  {
+   "id": "bna-carrefour-miercoles",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "10% adicional en Carrefour los miércoles con Mastercard Nación (suma al 10% MODO)",
+   "como_pagar": "Pagá con QR MODO desde BNA+ con tu Mastercard Nación",
+   "medios": [
+    "qr",
+    "tarjeta_debito",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    3
+   ],
+   "rubros": [
+    "supermercado"
+   ],
+   "comercios": [
+    "Carrefour"
+   ],
+   "descuento_pct": 10,
+   "tope_monto": 7500,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": 15000,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Compra mínima $15.000",
+   "fuente_url": "https://www.modo.com.ar/promos/10-carrefour-bna-oct26",
+   "confianza": "alta"
+  },
+  {
+   "id": "bna-la-anonima",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "10% adicional en La Anónima viernes y sábado con Mastercard Nación",
+   "como_pagar": "Pagá con QR MODO desde BNA+ con tu Mastercard Nación",
+   "medios": [
+    "qr",
+    "tarjeta_debito",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    5,
+    6
+   ],
+   "rubros": [
+    "supermercado"
+   ],
+   "comercios": [
+    "La Anónima"
+   ],
+   "descuento_pct": 10,
+   "tope_monto": 7500,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": 50000,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Compra mínima $50.000",
+   "fuente_url": "https://www.modo.com.ar/promos/10-la-anonima-bna-oct26",
+   "confianza": "alta"
+  },
+  {
+   "id": "bna-semana-nacion-supers",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "Semana Nación: 20-25% en super por día (La Gallega lun 25%, Josimar/Blowmax mar, Nini jue, Coto, Más Go dom, Super Coop vie-dom)",
+   "como_pagar": "Pagá desde la app BNA+ (MODO BNA+) escaneando el QR MODO y elegí tu tarjeta de crédito Visa o Mastercard Nación",
+   "medios": [
+    "qr",
+    "tarjeta_credito",
+    "tarjeta_debito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [],
+   "rubros": [
+    "supermercado"
+   ],
+   "comercios": [
+    "La Gallega",
+    "Josimar",
+    "Blowmax",
+    "Mayorista Nini",
+    "Coto",
+    "Más Go",
+    "El Nene",
+    "Super Coop"
+   ],
+   "descuento_pct": 20,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Calendario cambia semanalmente; fuentes discrepan en el día de Coto (martes vs viernes). Confirmar en semananacion.com.ar",
+   "fuente_url": "https://calcularsueldo.com.ar/finanzas/16114/supermercados-todos-los-descuentos-con-banco-nacion-en-octubre-2026.html",
+   "confianza": "baja"
+  },
+  {
+   "id": "bna-construccion",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "20% + cuotas en materiales de construcción lunes a jueves",
+   "como_pagar": "Pagá desde la app BNA+ (MODO BNA+) escaneando el QR MODO y elegí tu tarjeta de crédito Visa o Mastercard Nación",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "rubros": [
+    "hogar"
+   ],
+   "comercios": [],
+   "descuento_pct": 20,
+   "tope_monto": 120000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-12-31",
+   "requisitos": "Campaña 'Marcatón' — comercios adheridos (posiblemente regional, Catamarca); verificar",
+   "fuente_url": "https://www.modo.com.ar/promos/20off-construccion-bna-oct26",
+   "confianza": "baja"
+  },
+  {
+   "id": "bna-havanna",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "10% adicional en Havanna con Mastercard Nación",
+   "como_pagar": "Pagá con QR o NFC MODO BNA+ con Mastercard crédito Nación",
+   "medios": [
+    "qr",
+    "nfc",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [],
+   "rubros": [
+    "cafe",
+    "gastronomia"
+   ],
+   "comercios": [
+    "Havanna"
+   ],
+   "descuento_pct": 10,
+   "tope_monto": 15000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-12-31",
+   "requisitos": "Solo Mastercard Nación",
+   "fuente_url": "https://www.modo.com.ar/promos/10off-adicional-havanna-bna-oct26",
+   "confianza": "alta",
+   "requiere": "Mastercard Nación"
+  },
+  {
+   "id": "bna-gastronomia-exclusive",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "20% en gastronomía (clientes seleccionados)",
+   "como_pagar": "Pagá con QR o NFC MODO BNA+ con tarjeta de crédito Nación",
+   "medios": [
+    "qr",
+    "nfc",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [],
+   "rubros": [
+    "gastronomia"
+   ],
+   "comercios": [],
+   "descuento_pct": 20,
+   "tope_monto": 120000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-11-25",
+   "requisitos": "Solo clientes seleccionados y notificados; tope $20.000 por compra, máx 6 compras/mes",
+   "fuente_url": "https://www.modo.com.ar/promos/20-en-gastronomia-exclusive-bna-2608-543",
+   "confianza": "media",
+   "solo_invitados": true
+  },
+  {
+   "id": "bna-mastercard-100",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "100% de reintegro en primeras compras con Mastercard Nación (seleccionados)",
+   "como_pagar": "Pagá con QR MODO BNA+ con Mastercard crédito Nación",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial",
+    "online"
+   ],
+   "dias": [],
+   "rubros": [],
+   "comercios": [],
+   "descuento_pct": 100,
+   "tope_monto": 25000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Solo clientes seleccionados y notificados; tope $5.000 por compra, 5 compras",
+   "fuente_url": "https://www.modo.com.ar/promos/100-todoslospagos-bna-oct26",
+   "confianza": "media",
+   "solo_invitados": true
+  },
+  {
+   "id": "bna-bienes-durables",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "Hasta 20 cuotas sin interés en electro/tecnología/hogar",
+   "como_pagar": "Pagá desde la app BNA+ (MODO BNA+) escaneando el QR MODO y elegí tu tarjeta de crédito Visa o Mastercard Nación",
+   "medios": [
+    "qr",
+    "tarjeta_credito",
+    "online"
+   ],
+   "canal": [
+    "presencial",
+    "online"
+   ],
+   "dias": [],
+   "rubros": [
+    "electro",
+    "hogar"
+   ],
+   "comercios": [
+    "Frávega",
+    "On City",
+    "Megatone",
+    "Naldo",
+    "Coppel",
+    "LG",
+    "Motorola"
+   ],
+   "descuento_pct": null,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": 20,
+   "minimo_compra": null,
+   "tipo": "cuotas",
+   "vigencia_hasta": "2027-01-31",
+   "requisitos": "Comercios adheridos; 3/6/9/12/15/18/20 cuotas según comercio",
+   "fuente_url": "https://www.modo.com.ar/promos/20csi-bienesdurables-bna-mar26",
+   "confianza": "alta"
+  },
+  {
+   "id": "bna-perfumerias-12",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "12 cuotas sin interés en perfumerías viernes y sábado",
+   "como_pagar": "Pagá desde la app BNA+ (MODO BNA+) escaneando el QR MODO y elegí tu tarjeta de crédito Visa o Mastercard Nación",
+   "medios": [
+    "qr",
+    "tarjeta_credito",
+    "online"
+   ],
+   "canal": [
+    "presencial",
+    "online"
+   ],
+   "dias": [
+    5,
+    6
+   ],
+   "rubros": [
+    "perfumeria"
+   ],
+   "comercios": [],
+   "descuento_pct": null,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": 12,
+   "minimo_compra": null,
+   "tipo": "cuotas",
+   "vigencia_hasta": "2027-01-31",
+   "requisitos": "Tarjeta de crédito Nación",
+   "fuente_url": "https://www.modo.com.ar/promos/12csi-perfumerias-bna-u5066-ene26",
+   "confianza": "alta",
+   "requiere": "Crédito Nación"
+  },
+  {
+   "id": "bna-indumentaria-cuotas",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "3 y 6 cuotas sin interés en indumentaria (fines de semana)",
+   "como_pagar": "Pagá desde la app BNA+ (MODO BNA+) escaneando el QR MODO y elegí tu tarjeta de crédito Visa o Mastercard Nación",
+   "medios": [
+    "qr",
+    "tarjeta_credito",
+    "online"
+   ],
+   "canal": [
+    "presencial",
+    "online"
+   ],
+   "dias": [
+    0,
+    5,
+    6
+   ],
+   "rubros": [
+    "indumentaria",
+    "calzado"
+   ],
+   "comercios": [],
+   "descuento_pct": null,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": 6,
+   "minimo_compra": null,
+   "tipo": "cuotas",
+   "vigencia_hasta": "2027-03-31",
+   "requisitos": "Tarjeta de crédito Nación",
+   "fuente_url": "https://www.modo.com.ar/promos/6csi-indumentaria-1-bna-ago26",
+   "confianza": "alta",
+   "requiere": "Crédito Nación"
+  },
+  {
+   "id": "bna-viajes-cuotas",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "3 a 12 cuotas en vuelos y turismo (BNA Viajes / Viajá+)",
+   "como_pagar": "Comprá en BNA Viajes / Viajá+ pagando con MODO BNA+ y tarjeta de crédito Nación",
+   "medios": [
+    "online",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "online"
+   ],
+   "dias": [],
+   "rubros": [
+    "viajes",
+    "turismo"
+   ],
+   "comercios": [
+    "BNA Viajes",
+    "Aerolíneas Argentinas",
+    "Despegar"
+   ],
+   "descuento_pct": null,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": 12,
+   "minimo_compra": null,
+   "tipo": "cuotas",
+   "vigencia_hasta": "2026-12-31",
+   "requisitos": "Aerolíneas 3 cuotas; Despegar hasta 9 según prensa",
+   "fuente_url": "https://www.modo.com.ar/promos/9csi-vuelos-bna-viajes-jul26",
+   "confianza": "media"
+  },
+  {
+   "id": "bna-megatlon",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "15% + 12 cuotas en Megatlón (Platinum/Black/Signature)",
+   "como_pagar": "Pagá desde la app BNA+ (MODO BNA+) escaneando el QR MODO y elegí tu tarjeta de crédito Visa o Mastercard Nación",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [],
+   "rubros": [
+    "deporte"
+   ],
+   "comercios": [
+    "Megatlón"
+   ],
+   "descuento_pct": 15,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": 12,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2027-01-31",
+   "requisitos": "Visa/Mastercard Platinum, Black o Signature Nación; resto 10%",
+   "fuente_url": "https://www.modo.com.ar/promos/15off-12csi-megatlon-bna-jun26",
+   "confianza": "alta",
+   "requiere": "Nación Platinum o superior"
+  },
+  {
+   "id": "bna-tienda-bna",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "Tienda BNA+: hasta 20-24 cuotas sin interés",
+   "como_pagar": "Comprá en tiendabna.com.ar con tarjeta de crédito Nación",
+   "medios": [
+    "online",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "online"
+   ],
+   "dias": [],
+   "rubros": [
+    "electro",
+    "hogar",
+    "ecommerce",
+    "marketplace"
+   ],
+   "comercios": [
+    "Tienda BNA+"
+   ],
+   "descuento_pct": null,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": 24,
+   "minimo_compra": null,
+   "tipo": "cuotas",
+   "vigencia_hasta": null,
+   "requisitos": "24 cuotas en motos 0km; hasta 20 en productos seleccionados",
+   "fuente_url": "http://www.eldestapeweb.com/sociedad/descuentos-banco-nacion-modo-domingo-11-octubre-2026-uno-uno-cuales-202610883616",
+   "confianza": "media"
+  },
+  {
+   "id": "bna-librerias-sabado",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "10% + 3 cuotas en librerías los sábados",
+   "como_pagar": "Pagá desde la app BNA+ (MODO BNA+) escaneando el QR MODO y elegí tu tarjeta de crédito Visa o Mastercard Nación",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    6
+   ],
+   "rubros": [
+    "libreria"
+   ],
+   "comercios": [
+    "Cúspide",
+    "El Ateneo",
+    "Yenny"
+   ],
+   "descuento_pct": 10,
+   "tope_monto": 10000,
+   "tope_periodo": "transaccion",
+   "cuotas_sin_interes": 3,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Tope $10.000 por compra",
+   "fuente_url": "http://www.eldestapeweb.com/sociedad/descuentos-banco-nacion-modo-domingo-11-octubre-2026-uno-uno-cuales-202610883616",
+   "confianza": "media"
+  },
+  {
+   "id": "bna-veterinarias",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "10% + 3 cuotas en veterinarias adheridas",
+   "como_pagar": "Pagá desde la app BNA+ (MODO BNA+) escaneando el QR MODO y elegí tu tarjeta de crédito Visa o Mastercard Nación",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    1
+   ],
+   "rubros": [
+    "mascotas"
+   ],
+   "comercios": [],
+   "descuento_pct": 10,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": 3,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2027-01-31",
+   "requisitos": "Sin tope",
+   "fuente_url": "https://www.sitioandino.com.ar/economia/ahorra-supermercados-combustible-y-salud-las-promos-bancarias-octubre-2026-mendoza-n5731127",
+   "confianza": "media"
+  },
+  {
+   "id": "bna-gastronomia-cafeterias",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "20% en cafeterías/heladerías (Bonafide, Antares, Guapaletas, etc.)",
+   "como_pagar": "Pagá desde la app BNA+ (MODO BNA+) escaneando el QR MODO y elegí tu tarjeta de crédito Visa o Mastercard Nación",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [],
+   "rubros": [
+    "cafe",
+    "gastronomia"
+   ],
+   "comercios": [
+    "Bonafide",
+    "Atalaya",
+    "Antares",
+    "Churros El Topo",
+    "Guapaletas",
+    "La Fonte D'Oro"
+   ],
+   "descuento_pct": 20,
+   "tope_monto": 10000,
+   "tope_periodo": "transaccion",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Máx 3 operaciones por mes",
+   "fuente_url": "http://www.eldestapeweb.com/sociedad/descuentos-banco-nacion-modo-domingo-11-octubre-2026-uno-uno-cuales-202610883616",
+   "confianza": "media"
+  },
+  {
+   "id": "bna-dia-madre",
+   "entidad": "BNA+",
+   "tiene_usuario": true,
+   "titulo": "Día de la Madre: 30% + 12 cuotas en indumentaria, perfumería y librerías (ÚLTIMO DÍA)",
+   "como_pagar": "Pagá desde la app BNA+ (MODO BNA+) escaneando el QR MODO y elegí tu tarjeta de crédito Visa o Mastercard Nación",
+   "medios": [
+    "qr",
+    "tarjeta_credito",
+    "online"
+   ],
+   "canal": [
+    "presencial",
+    "online"
+   ],
+   "dias": [],
+   "rubros": [
+    "indumentaria",
+    "calzado",
+    "perfumeria",
+    "libreria"
+   ],
+   "comercios": [],
+   "descuento_pct": 30,
+   "tope_monto": 35000,
+   "tope_periodo": "transaccion",
+   "cuotas_sin_interes": 12,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-18",
+   "requisitos": "Vence hoy 18/10",
+   "fuente_url": "https://www.modo.com.ar/promos/30off-12csi-perfumerias-bna-oct26-2",
+   "confianza": "alta"
+  },
+  {
+   "id": "cdni-cercania",
+   "entidad": "Cuenta DNI",
+   "tiene_usuario": true,
+   "titulo": "20% en comercios de cercanía (lunes a viernes)",
+   "como_pagar": "Pagá con QR desde la app Cuenta DNI con dinero en cuenta",
+   "medios": [
+    "qr",
+    "transferencia"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "rubros": [
+    "comercio_barrio",
+    "almacen",
+    "carniceria",
+    "verduleria"
+   ],
+   "comercios": [],
+   "descuento_pct": 20,
+   "tope_monto": 6000,
+   "tope_periodo": "semana",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Tope se alcanza con $30.000 de compras",
+   "fuente_url": "https://calcularsueldo.com.ar/?p=16083",
+   "confianza": "alta"
+  },
+  {
+   "id": "cdni-ferias",
+   "entidad": "Cuenta DNI",
+   "tiene_usuario": true,
+   "titulo": "40% en ferias y mercados bonaerenses todos los días",
+   "como_pagar": "Pagá con QR desde la app Cuenta DNI con dinero en cuenta",
+   "medios": [
+    "qr",
+    "transferencia"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [],
+   "rubros": [
+    "verduleria",
+    "almacen",
+    "comercio_barrio"
+   ],
+   "comercios": [
+    "Ferias y mercados bonaerenses"
+   ],
+   "descuento_pct": 40,
+   "tope_monto": 6000,
+   "tope_periodo": "semana",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Tope alcanzable con $15.000",
+   "fuente_url": "https://calcularsueldo.com.ar/?p=16083",
+   "confianza": "alta"
+  },
+  {
+   "id": "cdni-dia-lunes",
+   "entidad": "Cuenta DNI",
+   "tiene_usuario": true,
+   "titulo": "Día los lunes: 10% con saldo o 20% con Visa Provincia por NFC",
+   "como_pagar": "Pagá en Día con QR de Cuenta DNI (saldo, 10%) o por NFC desde la app con tarjeta de crédito Visa Banco Provincia (20%)",
+   "medios": [
+    "qr",
+    "nfc",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    1
+   ],
+   "rubros": [
+    "supermercado"
+   ],
+   "comercios": [
+    "Día"
+   ],
+   "descuento_pct": 20,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "20% solo con tarjeta de crédito Visa de Banco Provincia por NFC; con saldo 10% sin tope",
+   "fuente_url": "https://calcularsueldo.com.ar/finanzas/16073/cuenta-dni-en-supermercados-la-lista-completa-de-promociones-y-los-nuevos-descuentos-de-octubre-2026.html",
+   "confianza": "alta",
+   "requiere": "Visa Banco Provincia"
+  },
+  {
+   "id": "cdni-changomas-jueves",
+   "entidad": "Cuenta DNI",
+   "tiene_usuario": true,
+   "titulo": "20% sin tope en ChangoMás / MasGO los jueves",
+   "como_pagar": "Pagá con QR Cuenta DNI con saldo o por NFC con Visa Provincia",
+   "medios": [
+    "qr",
+    "nfc"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    4
+   ],
+   "rubros": [
+    "supermercado"
+   ],
+   "comercios": [
+    "ChangoMás",
+    "MasGO"
+   ],
+   "descuento_pct": 20,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Sin tope",
+   "fuente_url": "https://calcularsueldo.com.ar/finanzas/16073/cuenta-dni-en-supermercados-la-lista-completa-de-promociones-y-los-nuevos-descuentos-de-octubre-2026.html",
+   "confianza": "alta"
+  },
+  {
+   "id": "cdni-carrefour-miercoles",
+   "entidad": "Cuenta DNI",
+   "tiene_usuario": true,
+   "titulo": "10% sin tope en Carrefour los miércoles",
+   "como_pagar": "Pagá con QR desde la app Cuenta DNI con dinero en cuenta",
+   "medios": [
+    "qr"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    3
+   ],
+   "rubros": [
+    "supermercado"
+   ],
+   "comercios": [
+    "Carrefour"
+   ],
+   "descuento_pct": 10,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": null,
+   "minimo_compra": 15000,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Consumo mínimo $15.000",
+   "fuente_url": "https://calcularsueldo.com.ar/finanzas/16073/cuenta-dni-en-supermercados-la-lista-completa-de-promociones-y-los-nuevos-descuentos-de-octubre-2026.html",
+   "confianza": "alta"
+  },
+  {
+   "id": "cdni-la-anonima-josimar",
+   "entidad": "Cuenta DNI",
+   "tiene_usuario": true,
+   "titulo": "10% en La Anónima / Josimar los miércoles",
+   "como_pagar": "Pagá con QR desde la app Cuenta DNI con dinero en cuenta",
+   "medios": [
+    "qr"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    3
+   ],
+   "rubros": [
+    "supermercado"
+   ],
+   "comercios": [
+    "La Anónima",
+    "Josimar"
+   ],
+   "descuento_pct": 10,
+   "tope_monto": 6000,
+   "tope_periodo": "semana",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "La Anónima tope $5.000/semana con mín $25.000; Josimar tope $6.000/semana",
+   "fuente_url": "https://calcularsueldo.com.ar/finanzas/16073/cuenta-dni-en-supermercados-la-lista-completa-de-promociones-y-los-nuevos-descuentos-de-octubre-2026.html",
+   "confianza": "media"
+  },
+  {
+   "id": "cdni-gastronomia-finde",
+   "entidad": "Cuenta DNI",
+   "tiene_usuario": true,
+   "titulo": "25% en gastronomía sábados y domingos",
+   "como_pagar": "Pagá con QR desde la app Cuenta DNI con dinero en cuenta",
+   "medios": [
+    "qr"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    0,
+    6
+   ],
+   "rubros": [
+    "gastronomia",
+    "cafe"
+   ],
+   "comercios": [],
+   "descuento_pct": 25,
+   "tope_monto": 8000,
+   "tope_periodo": "semana",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Tope alcanzable con $32.000",
+   "fuente_url": "https://calcularsueldo.com.ar/?p=16083",
+   "confianza": "alta"
+  },
+  {
+   "id": "cdni-mostaza",
+   "entidad": "Cuenta DNI",
+   "tiene_usuario": true,
+   "titulo": "25-30% en Mostaza jueves y viernes",
+   "como_pagar": "Pagá con QR Cuenta DNI (saldo: 25%, tope $8.000/sem) o con tarjeta de crédito por NFC desde la app (30%, tope $15.000/sem)",
+   "medios": [
+    "qr",
+    "nfc",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    4,
+    5
+   ],
+   "rubros": [
+    "gastronomia"
+   ],
+   "comercios": [
+    "Mostaza"
+   ],
+   "descuento_pct": 30,
+   "tope_monto": 15000,
+   "tope_periodo": "semana",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "",
+   "fuente_url": "https://calcularsueldo.com.ar/?p=16083",
+   "confianza": "alta"
+  },
+  {
+   "id": "cdni-farmacias",
+   "entidad": "Cuenta DNI",
+   "tiene_usuario": true,
+   "titulo": "10% sin tope en farmacias y perfumerías miércoles y jueves",
+   "como_pagar": "Pagá con QR desde la app Cuenta DNI con dinero en cuenta",
+   "medios": [
+    "qr"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    3,
+    4
+   ],
+   "rubros": [
+    "farmacia",
+    "perfumeria"
+   ],
+   "comercios": [],
+   "descuento_pct": 10,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "",
+   "fuente_url": "https://calcularsueldo.com.ar/?p=16083",
+   "confianza": "alta"
+  },
+  {
+   "id": "cdni-librerias",
+   "entidad": "Cuenta DNI",
+   "tiene_usuario": true,
+   "titulo": "10% sin tope en librerías lunes y martes",
+   "como_pagar": "Pagá con QR desde la app Cuenta DNI con dinero en cuenta",
+   "medios": [
+    "qr"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    1,
+    2
+   ],
+   "rubros": [
+    "libreria"
+   ],
+   "comercios": [],
+   "descuento_pct": 10,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "",
+   "fuente_url": "https://calcularsueldo.com.ar/?p=16083",
+   "confianza": "alta"
+  },
+  {
+   "id": "cdni-petshops",
+   "entidad": "Cuenta DNI",
+   "tiene_usuario": true,
+   "titulo": "30% en pet shops los sábados",
+   "como_pagar": "Pagá con QR desde la app Cuenta DNI con dinero en cuenta",
+   "medios": [
+    "qr"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    6
+   ],
+   "rubros": [
+    "mascotas"
+   ],
+   "comercios": [],
+   "descuento_pct": 30,
+   "tope_monto": 8000,
+   "tope_periodo": "semana",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "",
+   "fuente_url": "https://calcularsueldo.com.ar/?p=16083",
+   "confianza": "alta"
+  },
+  {
+   "id": "cdni-educacion-clubes",
+   "entidad": "Cuenta DNI",
+   "tiene_usuario": true,
+   "titulo": "40% en universidades, eventos y clubes",
+   "como_pagar": "Pagá con QR desde la app Cuenta DNI con dinero en cuenta",
+   "medios": [
+    "qr"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [],
+   "rubros": [
+    "educacion",
+    "deporte",
+    "entretenimiento"
+   ],
+   "comercios": [],
+   "descuento_pct": 40,
+   "tope_monto": 6000,
+   "tope_periodo": "semana",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "",
+   "fuente_url": "https://calcularsueldo.com.ar/?p=16083",
+   "confianza": "alta"
+  },
+  {
+   "id": "cdni-marcas-destacadas",
+   "entidad": "Cuenta DNI",
+   "tiene_usuario": true,
+   "titulo": "30% en marcas destacadas",
+   "como_pagar": "Pagá con QR desde la app Cuenta DNI con dinero en cuenta",
+   "medios": [
+    "qr"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [],
+   "rubros": [
+    "otros"
+   ],
+   "comercios": [],
+   "descuento_pct": 30,
+   "tope_monto": 15000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Marcas adheridas listadas en la app",
+   "fuente_url": "https://calcularsueldo.com.ar/?p=16083",
+   "confianza": "media"
+  },
+  {
+   "id": "cdni-ypf-full",
+   "entidad": "Cuenta DNI",
+   "tiene_usuario": true,
+   "titulo": "25% en tiendas YPF Full sábados y domingos",
+   "como_pagar": "Pagá con QR desde la app Cuenta DNI con dinero en cuenta",
+   "medios": [
+    "qr"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    0,
+    6
+   ],
+   "rubros": [
+    "cafe",
+    "gastronomia"
+   ],
+   "comercios": [
+    "YPF Full"
+   ],
+   "descuento_pct": 25,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Tope no informado; verificar en la app",
+   "fuente_url": "https://www.minutouno.com/lifestyle/descuentos-cuenta-dni-octubre-la-billetera-virtual-renovo-sus-promociones-comercios-y-supermercados-n6334354",
+   "confianza": "baja"
+  },
+  {
+   "id": "cdni-sodimac",
+   "entidad": "Cuenta DNI",
+   "tiene_usuario": true,
+   "titulo": "10% sin tope en Sodimac los miércoles",
+   "como_pagar": "Pagá con QR desde la app Cuenta DNI con dinero en cuenta",
+   "medios": [
+    "qr"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    3
+   ],
+   "rubros": [
+    "hogar"
+   ],
+   "comercios": [
+    "Sodimac"
+   ],
+   "descuento_pct": 10,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "",
+   "fuente_url": "https://www.minutouno.com/lifestyle/descuentos-cuenta-dni-octubre-la-billetera-virtual-renovo-sus-promociones-comercios-y-supermercados-n6334354",
+   "confianza": "baja"
+  },
+  {
+   "id": "cdni-cuotas",
+   "entidad": "Cuenta DNI",
+   "tiene_usuario": true,
+   "titulo": "Hasta 3 cuotas sin interés en comercios no alimentarios",
+   "como_pagar": "Pagá con QR en Cuenta DNI usando una tarjeta de crédito vinculada a la app",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [],
+   "rubros": [
+    "indumentaria",
+    "electro",
+    "hogar",
+    "otros"
+   ],
+   "comercios": [],
+   "descuento_pct": null,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": 3,
+   "minimo_compra": null,
+   "tipo": "cuotas",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "No aplica a alimentos",
+   "fuente_url": "https://calcularsueldo.com.ar/?p=16083",
+   "confianza": "media"
+  },
+  {
+   "id": "mp-ypf-lunes",
+   "entidad": "Mercado Pago",
+   "tiene_usuario": false,
+   "titulo": "10% en YPF los lunes",
+   "como_pagar": "Pagá desde la App YPF con la tarjeta de crédito o prepaga de Mercado Pago",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    1
+   ],
+   "rubros": [
+    "combustible"
+   ],
+   "comercios": [
+    "YPF"
+   ],
+   "descuento_pct": 10,
+   "tope_monto": 6000,
+   "tope_periodo": "semana",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Tarjeta Mercado Pago (crédito o prepaga, gratis)",
+   "fuente_url": "https://calcularsueldo.com.ar/finanzas/16147/combustible-descuento-en-ypf-con-mercado-pago-durante-octubre-2026.html",
+   "confianza": "media"
+  },
+  {
+   "id": "mp-gulf",
+   "entidad": "Mercado Pago",
+   "tiene_usuario": false,
+   "titulo": "10% en Gulf martes y jueves",
+   "como_pagar": "Pagá con QR de Mercado Pago",
+   "medios": [
+    "qr"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    2,
+    4
+   ],
+   "rubros": [
+    "combustible"
+   ],
+   "comercios": [
+    "Gulf"
+   ],
+   "descuento_pct": 10,
+   "tope_monto": 7000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": 40000,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Compra mínima $40.000",
+   "fuente_url": "https://www.eldestapeweb.com/sociedad/miercoles-descuentos-nafta-octubre-2026-ahorrar-combustible-este-mes-20261072112",
+   "confianza": "media"
+  },
+  {
+   "id": "naranjax-super-martes",
+   "entidad": "Naranja X",
+   "tiene_usuario": false,
+   "titulo": "25% en supermercados los martes con Plan Turbo",
+   "como_pagar": "Pagá con tarjeta Naranja X (débito o crédito) en Disco, Vea, Jumbo, Día, ChangoMás o Coto",
+   "medios": [
+    "tarjeta_debito",
+    "tarjeta_credito",
+    "qr"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    2
+   ],
+   "rubros": [
+    "supermercado"
+   ],
+   "comercios": [
+    "Disco",
+    "Vea",
+    "Jumbo",
+    "Día",
+    "ChangoMás",
+    "Coto"
+   ],
+   "descuento_pct": 25,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Plan Turbo de Naranja X; tope no confirmado",
+   "fuente_url": "https://www.iproup.com/economia-digital/72165-naranja-x-ofrece-estas-promociones-durante-octubre",
+   "confianza": "baja"
+  },
+  {
+   "id": "santander-supermiercoles",
+   "entidad": "Santander",
+   "tiene_usuario": false,
+   "titulo": "Supermiércoles: descuentos y cuotas en indumentaria y super",
+   "como_pagar": "Pagá con QR desde la app Santander o MODO con Visa crédito/débito Santander",
+   "medios": [
+    "qr",
+    "tarjeta_credito",
+    "tarjeta_debito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    3
+   ],
+   "rubros": [
+    "indumentaria",
+    "supermercado"
+   ],
+   "comercios": [],
+   "descuento_pct": null,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": 6,
+   "minimo_compra": null,
+   "tipo": "cuotas",
+   "vigencia_hasta": "2026-12-30",
+   "requisitos": "Cliente Santander",
+   "fuente_url": "https://www.modo.com.ar/promos/supermiercoles-santander-informativa-sep26-dic26",
+   "confianza": "media"
+  },
+  {
+   "id": "santander-coto-jueves",
+   "entidad": "Santander",
+   "tiene_usuario": false,
+   "titulo": "30% sin tope en Coto los jueves con Visa",
+   "como_pagar": "Pagá en Coto con tarjeta Visa Santander",
+   "medios": [
+    "tarjeta_credito",
+    "tarjeta_debito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    4
+   ],
+   "rubros": [
+    "supermercado"
+   ],
+   "comercios": [
+    "Coto"
+   ],
+   "descuento_pct": 30,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "descuento_inmediato",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Cliente Santander",
+   "fuente_url": "https://www.sitioandino.com.ar/economia/ahorra-supermercados-combustible-y-salud-las-promos-bancarias-octubre-2026-mendoza-n5731127",
+   "confianza": "baja"
+  },
+  {
+   "id": "supervielle-coto-martes",
+   "entidad": "Supervielle",
+   "tiene_usuario": false,
+   "titulo": "30% sin tope en Coto martes (MODO) y jueves (débito Visa NFC)",
+   "como_pagar": "Pagá con MODO los martes o con débito Visa por NFC los jueves",
+   "medios": [
+    "qr",
+    "nfc",
+    "tarjeta_debito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    2,
+    4
+   ],
+   "rubros": [
+    "supermercado"
+   ],
+   "comercios": [
+    "Coto"
+   ],
+   "descuento_pct": 30,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Cliente Supervielle",
+   "fuente_url": "https://calcularsueldo.com.ar/finanzas/16210/banco-por-banco-descuentos-y-ahorros-para-el-dia-de-la-madre-2026.html",
+   "confianza": "baja"
+  },
+  {
+   "id": "hipotecario-changomas-martes",
+   "entidad": "Hipotecario",
+   "tiene_usuario": false,
+   "titulo": "25% en ChangoMás los martes con débito Visa BH",
+   "como_pagar": "Pagá con QR MODO desde la app BH o MODO con débito Visa Hipotecario",
+   "medios": [
+    "qr",
+    "tarjeta_debito"
+   ],
+   "canal": [
+    "presencial",
+    "online"
+   ],
+   "dias": [
+    2
+   ],
+   "rubros": [
+    "supermercado"
+   ],
+   "comercios": [
+    "ChangoMás"
+   ],
+   "descuento_pct": 25,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Cliente Banco Hipotecario; también Makro, La Anónima, Toledo, Cooperativa Obrera, Friar",
+   "fuente_url": "https://www.modo.com.ar/promos/25-hipotecario-changomas-oct26",
+   "confianza": "alta"
+  },
+  {
+   "id": "galicia-coto-martes",
+   "entidad": "Galicia",
+   "tiene_usuario": false,
+   "titulo": "20% en Coto martes, 25% The Food Market jueves, 20% MásGO domingo",
+   "como_pagar": "Pagá con QR (MODO/app Galicia) con Visa o Mastercard Galicia",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    2,
+    4,
+    0
+   ],
+   "rubros": [
+    "supermercado"
+   ],
+   "comercios": [
+    "Coto",
+    "The Food Market",
+    "MásGO"
+   ],
+   "descuento_pct": 20,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": 12,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Cliente Galicia; 12-18 cuotas en ChangoMás/Coto",
+   "fuente_url": "https://calcularsueldo.com.ar/finanzas/16130/supermercados-todos-los-descuentos-con-banco-galicia-en-octubre-2026.html",
+   "confianza": "media"
+  },
+  {
+   "id": "ciudad-combustible-domingo",
+   "entidad": "Banco Ciudad",
+   "tiene_usuario": false,
+   "titulo": "10% en combustible los domingos (plan sueldo/jubilados)",
+   "como_pagar": "Pagá con QR MODO (app Ciudad/Buepp) con Visa o Mastercard Ciudad en Axion, YPF o Shell",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    0
+   ],
+   "rubros": [
+    "combustible"
+   ],
+   "comercios": [
+    "Axion",
+    "YPF",
+    "Shell"
+   ],
+   "descuento_pct": 10,
+   "tope_monto": 10000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-12-31",
+   "requisitos": "Plan sueldo o jubilados Banco Ciudad",
+   "fuente_url": "https://www.modo.com.ar/promos/10-combustible-ciudad-buepp-oct26",
+   "confianza": "alta"
+  },
+  {
+   "id": "ciudad-ferias",
+   "entidad": "Banco Ciudad",
+   "tiene_usuario": false,
+   "titulo": "30% en Ferias de la Ciudad (CABA) lun/mar/jue/sáb",
+   "como_pagar": "Pagá con QR MODO desde Buepp/app Ciudad",
+   "medios": [
+    "qr"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    1,
+    2,
+    4,
+    6
+   ],
+   "rubros": [
+    "verduleria",
+    "almacen"
+   ],
+   "comercios": [
+    "Ferias itinerantes CABA"
+   ],
+   "descuento_pct": 30,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-12-31",
+   "requisitos": "Cliente Banco Ciudad / Buepp",
+   "fuente_url": "https://www.modo.com.ar/promos/30-ciudad-buepp-feriasdelaciudad-oct26",
+   "confianza": "media"
+  },
+  {
+   "id": "macro-combustible-ypf",
+   "entidad": "Macro",
+   "tiene_usuario": false,
+   "titulo": "20-30% en YPF los miércoles",
+   "como_pagar": "Pagá en YPF con tarjeta Macro (o MODO)",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    3
+   ],
+   "rubros": [
+    "combustible"
+   ],
+   "comercios": [
+    "YPF"
+   ],
+   "descuento_pct": 20,
+   "tope_monto": 10000,
+   "tope_periodo": "mes",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-31",
+   "requisitos": "Preferencial 20% tope $10.000/mes; Selecta 30% tope $15.000/mes",
+   "fuente_url": "https://www.elonce.com/economia/nafta-y-gasoil-como-obtener-descuentos-de-hasta-el-30-en-octubre-con-bancos-y-aplicaciones.htm",
+   "confianza": "media"
+  },
+  {
+   "id": "ypf-app-nocturno",
+   "entidad": "YPF App",
+   "tiene_usuario": false,
+   "titulo": "6% carga nocturna (0-6 h) + 3% autodespacho",
+   "como_pagar": "Pagá desde la App YPF de 0 a 6 h",
+   "medios": [
+    "qr"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [],
+   "rubros": [
+    "combustible"
+   ],
+   "comercios": [
+    "YPF"
+   ],
+   "descuento_pct": 6,
+   "tope_monto": null,
+   "tope_periodo": null,
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "descuento_inmediato",
+   "vigencia_hasta": null,
+   "requisitos": "Usuario App YPF / ServiClub",
+   "fuente_url": "https://www.elonce.com/economia/nafta-y-gasoil-como-obtener-descuentos-de-hasta-el-30-en-octubre-con-bancos-y-aplicaciones.htm",
+   "confianza": "media"
+  },
+  {
+   "id": "credicoop-combustible",
+   "entidad": "Credicoop",
+   "tiene_usuario": false,
+   "titulo": "15-20% en combustible los viernes",
+   "como_pagar": "Pagá con QR MODO o app Credicoop con tarjeta Cabal/Visa Credicoop",
+   "medios": [
+    "qr",
+    "tarjeta_credito"
+   ],
+   "canal": [
+    "presencial"
+   ],
+   "dias": [
+    5
+   ],
+   "rubros": [
+    "combustible"
+   ],
+   "comercios": [],
+   "descuento_pct": 20,
+   "tope_monto": 6000,
+   "tope_periodo": "semana",
+   "cuotas_sin_interes": null,
+   "minimo_compra": null,
+   "tipo": "reintegro",
+   "vigencia_hasta": "2026-10-30",
+   "requisitos": "20% cuenta sueldo (tope $6.000/sem); 15% resto (tope $4.500/sem)",
+   "fuente_url": "https://www.modo.com.ar/promos/5-combustible-credicoop-oct26",
+   "confianza": "media"
+  }
+ ],
+ "alternativas": [
+  {
+   "entidad": "Mercado Pago",
+   "como_afiliarse": "Descargar la app y crear cuenta (gratis). Pedir tarjeta prepaga o de crédito Mercado Pago.",
+   "costo": "Sin costo de mantenimiento",
+   "fuerte_en_rubros": [
+    "combustible",
+    "supermercado",
+    "ecommerce",
+    "marketplace",
+    "delivery"
+   ],
+   "resumen": "10% en YPF los lunes vía App YPF (tope $6.000/sem) y 10% en Gulf mar/jue; descuentos rotativos en supermercados y hasta 18 cuotas en Mercado Libre/comercios. Muy útil para compras online en Mercado Libre."
+  },
+  {
+   "entidad": "Naranja X",
+   "como_afiliarse": "App Naranja X gratis; tarjeta de débito/prepaga al instante, crédito sujeto a aprobación.",
+   "costo": "Cuenta gratis; tarjeta de crédito Naranja con costo mensual",
+   "fuerte_en_rubros": [
+    "supermercado",
+    "farmacia",
+    "perfumeria",
+    "combustible"
+   ],
+   "resumen": "25% los martes en Disco/Vea/Jumbo/Día/ChangoMás/Coto con Plan Turbo (confianza baja), Plan Z (3 cuotas sin interés), 10% combustible fines de semana en Gulf, promos en Farmacity."
+  },
+  {
+   "entidad": "Hipotecario",
+   "como_afiliarse": "Abrir cuenta online en la app BH.",
+   "costo": "Caja de ahorro gratuita; paquetes con costo",
+   "fuerte_en_rubros": [
+    "supermercado"
+   ],
+   "resumen": "25% los martes con débito Visa BH vía MODO en ChangoMás, Makro, La Anónima, Cooperativa Obrera, Toledo y Friar (octubre 2026). Opción barata para sumar un 25% en supermercado solo con débito.",
+   "nombre": "Banco Hipotecario (BH)"
+  },
+  {
+   "entidad": "Galicia",
+   "como_afiliarse": "Abrir cuenta online o cobrar sueldo en Galicia.",
+   "costo": "Paquetes con mantenimiento mensual; bonificables con sueldo",
+   "fuerte_en_rubros": [
+    "supermercado",
+    "indumentaria",
+    "electro",
+    "ecommerce"
+   ],
+   "resumen": "20% Coto martes, 25% The Food Market jueves, 20% MásGO domingo, 12-18 cuotas en ChangoMás/Coto, cuotas en Frávega. Éminent mejora topes.",
+   "nombre": "Banco Galicia"
+  },
+  {
+   "entidad": "Santander",
+   "como_afiliarse": "Abrir cuenta online o plan sueldo.",
+   "costo": "Paquetes Santander con costo; bonificables con sueldo",
+   "fuerte_en_rubros": [
+    "supermercado",
+    "combustible",
+    "indumentaria",
+    "transporte"
+   ],
+   "resumen": "Coto 30% jueves con Visa (confianza baja), Supermiércoles con cuotas, 15% YPF jueves para segmento Sorpresa, 50% en transporte con QR."
+  },
+  {
+   "entidad": "Banco Ciudad",
+   "como_afiliarse": "Buepp es billetera gratuita del Banco Ciudad (alta online). Combustible requiere plan sueldo o jubilación.",
+   "costo": "Buepp gratis",
+   "fuerte_en_rubros": [
+    "verduleria",
+    "almacen",
+    "combustible",
+    "transporte"
+   ],
+   "resumen": "30% en Ferias de la Ciudad (CABA), 10% combustible domingos (plan sueldo), promos de activación 100% en primeras compras con Buepp vía MODO.",
+   "nombre": "Banco Ciudad / Buepp"
+  },
+  {
+   "entidad": "Supervielle",
+   "como_afiliarse": "Abrir cuenta online o plan sueldo (IDT).",
+   "costo": "Paquetes con costo; bonificables",
+   "fuerte_en_rubros": [
+    "supermercado",
+    "gastronomia",
+    "transporte"
+   ],
+   "resumen": "30% sin tope en Coto martes (MODO) y jueves (débito NFC) según prensa; 50% transporte con QR MODO; 20% martes Jumbo/Disco/Vea/ChangoMás; IDT 30% en restaurantes."
+  },
+  {
+   "entidad": "Macro",
+   "como_afiliarse": "Abrir cuenta o cobrar sueldo; Selecta para mayores ingresos.",
+   "costo": "Paquetes con costo",
+   "fuerte_en_rubros": [
+    "combustible",
+    "gastronomia",
+    "electro"
+   ],
+   "resumen": "20-30% en YPF los miércoles según segmento, gastronomía hasta 30% para Selecta, 12 cuotas en tecnología.",
+   "nombre": "Banco Macro"
+  },
+  {
+   "entidad": "YPF App",
+   "como_afiliarse": "Descargar App YPF y registrarse (gratis).",
+   "costo": "Gratis",
+   "fuerte_en_rubros": [
+    "combustible"
+   ],
+   "resumen": "6% de 0 a 6 h + 3% autodespacho sin tope; acumula con promos bancarias que exigen pagar desde la App YPF (Mercado Pago, Mastercard, Santander).",
+   "nombre": "App YPF / ServiClub"
+  },
+  {
+   "entidad": "Credicoop",
+   "como_afiliarse": "Abrir cuenta o cobrar sueldo.",
+   "costo": "Paquetes con costo moderado",
+   "fuerte_en_rubros": [
+    "combustible",
+    "supermercado"
+   ],
+   "resumen": "15-20% en combustible los viernes (20% cuenta sueldo), promos especiales en Coto con Cabal."
+  },
+  {
+   "entidad": "BBVA Black+",
+   "como_afiliarse": "Pedir el paquete Black+ Save, Travel o All en la app BBVA",
+   "costo": "~$98.000/mes (Save) a $188.000/mes (All), salvo bonificación por consumos o sueldo",
+   "costo_mensual": 98000
+  },
+  {
+   "entidad": "Visa Banco Provincia",
+   "como_afiliarse": "Pedir la tarjeta de crédito Visa en Banco Provincia y cargarla en Cuenta DNI",
+   "costo": "Según paquete de Banco Provincia"
+  },
+  {
+   "entidad": "Mastercard Nación",
+   "como_afiliarse": "Pedir la Mastercard de crédito en BNA+ (si ya tenés Visa Nación)",
+   "costo": "Generalmente incluida en el paquete Nación"
+  },
+  {
+   "entidad": "Nación Platinum o superior",
+   "como_afiliarse": "Upgrade de tarjeta Nación según ingresos",
+   "costo": "Según paquete Nación"
+  }
+ ]
+}

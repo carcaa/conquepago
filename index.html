@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>¿Con qué pago?</title>
+<meta name="theme-color" content="#0E6B55">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Con qué pago">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@500;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500;600&display=swap">
+<link rel="stylesheet" href="styles.css">
+<script src="https://cdn.jsdelivr.net/npm/jsqr@1.4.0/dist/jsQR.js" defer></script>
+</head>
+<body>
+<header class="top">
+  <h1>¿Con qué pago?</h1>
+  <span id="hoy" class="hoy"></span>
+</header>
+
+<main id="app">
+  <!-- PAGAR -->
+  <section id="v-pagar" class="vista">
+    <div class="seg" role="tablist" aria-label="Dónde pagás">
+      <button id="m-qr" data-modo="qr" class="on">Escanear QR</button>
+      <button id="m-local" data-modo="local">En el local</button>
+      <button id="m-online" data-modo="online">Online</button>
+    </div>
+
+    <div id="p-qr" class="panel">
+      <div id="cam" class="cam" hidden>
+        <video id="video" playsinline muted></video>
+        <div class="mira"></div>
+        <button id="cam-cerrar" class="ghost cam-x">Cerrar</button>
+      </div>
+      <div class="fila">
+        <button id="btn-cam" class="prim">Abrir cámara</button>
+        <label class="btn sec" for="qr-foto">Foto del QR</label>
+        <input id="qr-foto" type="file" accept="image/*" capture="environment" hidden>
+      </div>
+      <p class="ayuda">Escaneá el QR de la caja. No pagás desde acá: te digo con qué billetera y tarjeta conviene, y después lo escaneás con esa app.</p>
+    </div>
+
+    <div id="p-local" class="panel" hidden>
+      <div class="fila">
+        <button id="btn-cerca" class="prim">Detectar dónde estoy</button>
+      </div>
+      <ul id="cerca" class="lista-cerca"></ul>
+      <p class="ayuda">Para pagar acercando el celular o con tarjeta. Usa tu ubicación para encontrar el comercio; si no aparece, escribilo abajo.</p>
+    </div>
+
+    <div id="p-online" class="panel" hidden>
+      <p class="ayuda">Pegá el link de la tienda o escribí su nombre (Mercado Libre, PedidosYa, Fravega…).</p>
+    </div>
+
+    <form id="f-comercio" class="tarjeta comercio" autocomplete="off">
+      <div class="campo">
+        <label for="c-nombre">Comercio</label>
+        <input id="c-nombre" placeholder="Ej. Coto, Farmacity, mercadolibre.com.ar">
+      </div>
+      <div class="fila2">
+        <div class="campo">
+          <label for="c-rubro">Rubro</label>
+          <select id="c-rubro"></select>
+        </div>
+        <div class="campo">
+          <label for="c-monto">Monto</label>
+          <input id="c-monto" inputmode="decimal" placeholder="$ 0">
+        </div>
+      </div>
+      <p id="c-meta" class="meta"></p>
+    </form>
+
+    <div id="resultado"></div>
+  </section>
+
+  <!-- CONSUMOS -->
+  <section id="v-consumos" class="vista" hidden>
+    <div id="cons-resumen"></div>
+    <details class="tarjeta" id="imp">
+      <summary>Importar movimientos</summary>
+      <p class="ayuda">Copiá los movimientos del home banking o del resumen de la tarjeta (BBVA, BNA, Cuenta DNI) y pegalos acá. Sirve cualquier formato con fecha, descripción y monto por línea. También podés subir un CSV.</p>
+      <textarea id="imp-texto" rows="6" placeholder="14/10/2026  COTO SUC 45   $ 85.400,00"></textarea>
+      <div class="fila">
+        <button id="imp-btn" class="prim">Importar</button>
+        <label class="btn sec" for="imp-file">Subir CSV</label>
+        <input id="imp-file" type="file" accept=".csv,.txt,text/plain,text/csv" hidden>
+      </div>
+      <p id="imp-msg" class="meta"></p>
+    </details>
+    <div id="cons-analisis"></div>
+    <div id="cons-lista"></div>
+  </section>
+
+  <!-- PROMOS -->
+  <section id="v-promos" class="vista" hidden>
+    <div class="fila">
+      <select id="pr-filtro" aria-label="Filtrar por entidad"></select>
+      <label class="chk"><input type="checkbox" id="pr-hoy"> Solo hoy</label>
+    </div>
+    <p id="pr-meta" class="meta"></p>
+    <div id="pr-lista"></div>
+  </section>
+
+  <!-- PERFIL -->
+  <section id="v-perfil" class="vista" hidden>
+    <div class="tarjeta">
+      <h2>Mis medios de pago</h2>
+      <p class="ayuda">Marcá lo que tenés. Lo demás se usa para sugerirte afiliaciones.</p>
+      <div id="pf-entidades" class="chips"></div>
+    </div>
+    <div class="tarjeta">
+      <h2>Tarjetas y paquetes</h2>
+      <p class="ayuda">Algunas promos piden una tarjeta puntual. Marcá las que tenés.</p>
+      <div id="pf-productos" class="chips"></div>
+    </div>
+    <div class="tarjeta">
+      <h2>Supuestos</h2>
+      <div class="campo">
+        <label for="pf-infl">Inflación mensual estimada (para valuar cuotas sin interés)</label>
+        <input id="pf-infl" inputmode="decimal">
+      </div>
+    </div>
+    <div class="tarjeta">
+      <h2>Datos</h2>
+      <p class="ayuda">Todo queda guardado en este teléfono.</p>
+      <div class="fila">
+        <button id="pf-borrar-cons" class="sec">Borrar consumos</button>
+      </div>
+      <p id="pf-msg" class="meta"></p>
+    </div>
+  </section>
+</main>
+
+<nav class="tabs" aria-label="Secciones">
+  <button data-tab="pagar" class="on">Pagar</button>
+  <button data-tab="consumos">Consumos</button>
+  <button data-tab="promos">Promos</button>
+  <button data-tab="perfil">Perfil</button>
+</nav>
+
+<div id="toast" class="toast" role="status" hidden></div>
+<script type="module" src="src/app.js"></script>
+</body>
+</html>
