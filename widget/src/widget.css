@@ -1,0 +1,49 @@
+/* Aislado en shadow DOM. Mismos tokens que la app, con modo oscuro. */
+:host { all: initial; }
+.cqp {
+  --bg: #FFFFFF; --ink: #142420; --muted: #5C6B67; --line: #D9E0DD; --accent: #0E6B55; --accent-ink: #FFFFFF;
+  --soft: #DDF0E9; --warn: #9A5B00; --warn-soft: #FBEFD9;
+  font: 14px/1.4 -apple-system, "IBM Plex Sans", "Segoe UI", Roboto, sans-serif; color: var(--ink);
+}
+@media (prefers-color-scheme: dark) {
+  .cqp { --bg: #18201D; --ink: #E6EEEB; --muted: #95A6A0; --line: #2A3531; --accent: #3CC39C; --accent-ink: #062018;
+    --soft: #163A30; --warn: #F0B45A; --warn-soft: #3A2A12; }
+}
+* { box-sizing: border-box; }
+button { font: inherit; cursor: pointer; color: inherit; }
+button:focus-visible, input:focus-visible, select:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.pill {
+  display: inline-flex; align-items: center; gap: 8px; padding: 8px 14px 8px 8px; border-radius: 999px;
+  background: var(--bg); border: 1px solid var(--line); box-shadow: 0 4px 16px rgba(0,0,0,.18); font-weight: 600;
+}
+.pill.hay { background: var(--accent); color: var(--accent-ink); border-color: transparent; }
+.logo { width: 26px; height: 26px; border-radius: 50%; display: grid; place-items: center; background: var(--soft); color: var(--accent); font-weight: 800; }
+.panel {
+  width: min(340px, calc(100vw - 32px)); max-height: min(560px, calc(100vh - 32px)); overflow: auto;
+  background: var(--bg); border: 1px solid var(--line); border-radius: 16px; box-shadow: 0 10px 34px rgba(0,0,0,.22);
+  padding: 12px; display: flex; flex-direction: column; gap: 10px;
+}
+.cab { display: flex; justify-content: space-between; align-items: center; font-size: 15px; }
+.acc { display: flex; gap: 4px; }
+.ic { width: 30px; height: 30px; border-radius: 8px; border: 1px solid var(--line); background: transparent; font-size: 15px; line-height: 1; }
+.fila { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+select, input[inputmode] { font: 15px inherit; font-family: inherit; color: var(--ink); background: transparent; border: 1px solid var(--line); border-radius: 9px; padding: 8px; width: 100%; min-width: 0; }
+.tienda, .mt { color: var(--muted); font-size: 12px; }
+.top { background: var(--soft); border-radius: 12px; padding: 10px 12px; display: flex; flex-direction: column; gap: 4px; }
+.eb { font-size: 11px; text-transform: uppercase; letter-spacing: .07em; color: var(--muted); font-weight: 700; }
+.how { font-weight: 700; font-size: 15px; line-height: 1.25; }
+.ah { font: 700 22px ui-monospace, "IBM Plex Mono", Menlo, monospace; color: var(--accent); }
+.ah small { font: 500 12px -apple-system, sans-serif; color: var(--muted); }
+a { color: var(--accent); font-size: 12.5px; }
+.otras { display: flex; flex-direction: column; border: 1px solid var(--line); border-radius: 12px; }
+.o { display: flex; justify-content: space-between; gap: 8px; padding: 8px 10px; border-top: 1px solid var(--line); font-size: 12.5px; }
+.o:first-child { border-top: 0; }
+.o b { white-space: nowrap; font-family: ui-monospace, Menlo, monospace; }
+.afil { background: var(--warn-soft); color: var(--ink); border-radius: 10px; padding: 8px 10px; font-size: 12.5px; }
+.afil b { color: var(--warn); }
+.pie { display: flex; justify-content: space-between; align-items: center; }
+.lnk { background: none; border: 0; color: var(--muted); font-size: 12px; text-decoration: underline; padding: 4px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chips label { display: inline-flex; gap: 5px; align-items: center; border: 1px solid var(--line); border-radius: 99px; padding: 5px 10px; font-size: 13px; }
+.chips input { accent-color: var(--accent); margin: 0; }
+.sub { font-size: 11px; text-transform: uppercase; letter-spacing: .07em; color: var(--muted); font-weight: 700; }

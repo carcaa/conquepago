@@ -33,3 +33,28 @@ La cámara y la ubicación en el iPhone necesitan HTTPS, así que para usarla en
 `https://<tu-dominio>/?tienda=` + *Entrada del atajo* (codificada con "Codificar URL").
 
 **Escanear con la cámara nativa:** acción *Escanear código QR* → *Codificar URL* → *Abrir URL* `https://<tu-dominio>/?qr=` + resultado. Se puede asignar a Ajustes › Accesibilidad › Tocar › Tocar atrás (doble toque en la espalda del iPhone).
+
+## Widget para compras online
+
+Un panel flotante que aparece en las tiendas online (Mercado Libre, Frávega, PedidosYa, supermercados, etc.) y en cualquier página de checkout. Detecta la tienda y el total del carrito, y te dice con qué medio pagar. El código está en `widget/src/` y reutiliza el motor de la app.
+
+```bash
+./widget/build.sh
+```
+
+Genera `widget/extension/` (extensión Chrome/Safari, Manifest V3) y `widget/conquepago.user.js` (userscript).
+
+### Chrome (Mac/PC)
+`chrome://extensions` → activar *Modo desarrollador* → *Cargar descomprimida* → elegir `widget/extension`.
+
+### Safari en iPhone, opción A: app Userscripts (sin Xcode)
+1. Instalar **Userscripts** (gratis, App Store) y en Ajustes › Safari › Extensiones activarla para "Todos los sitios web".
+2. Abrir en Safari `https://carcaa.github.io/conquepago/widget/conquepago.user.js` → tocar el ícono de Userscripts → *Instalar*.
+
+### Safari en iPhone y Mac, opción B: extensión nativa (Xcode)
+```bash
+xcrun safari-web-extension-converter widget/extension --project-location widget/safari --app-name "Con que pago" --bundle-identifier ar.carcaa.conquepago --swift --no-open
+```
+Abrir el proyecto en Xcode, elegir tu Apple ID en *Signing & Capabilities*, conectar el iPhone y correr. Con una cuenta gratuita la firma dura 7 días; para que quede fija hace falta Apple Developer (USD 99/año).
+
+Chrome en iPhone no admite extensiones.

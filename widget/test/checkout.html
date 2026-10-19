@@ -1,0 +1,14 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Finalizar compra | Frávega (simulado)</title>
+<style>body{font-family:Arial;margin:0;padding:24px;background:#f5f5f5} .box{background:#fff;padding:20px;max-width:520px;border-radius:8px}
+.row{display:flex;justify-content:space-between;margin:8px 0} .total{font-size:24px;font-weight:bold}</style></head>
+<body><div class="box"><h1>Tu compra</h1>
+<div class="row"><span>Smart TV 55" Samsung</span><span>$ 899.999</span></div>
+<div class="row"><span>Subtotal</span><span>$ 899.999</span></div>
+<div class="row"><span>Envío</span><span>Gratis</span></div>
+<div class="row total"><span>Total</span><span>$ 899.999</span></div>
+<button id="sumar">Agregar soporte de pared ($ 25.000)</button>
+</div>
+<script>window.__cqpHost='www.fravega.com';
+document.getElementById('sumar').onclick=()=>{document.querySelectorAll('.row span:last-child').forEach((s,i)=>{if(i!==2)s.textContent=i===0?'$ 899.999':'$ 924.999'})};</script>
+<script src="../extension/content.js"></script></body></html>
